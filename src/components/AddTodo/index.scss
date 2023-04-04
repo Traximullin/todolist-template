@@ -1,0 +1,9 @@
+.input {
+    color: #C0C2C4;
+    background-color: #343A40;
+    border: 1px solid #2E3239;
+    min-width: 400px;
+    &::placeholder {
+        color: #5B6169;
+    }
+}
